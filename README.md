@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Abisolav
-- 👀 I’m interested in Gaming and AI
-- 🌱 I’m currently learning Robotics
-- 💞️ I’m looking to collaborate on project associated with AI 
+-  Hi, I’m @Abisolav
+-  I’m interested in Gaming and AI
+-  I’m currently game design
 - 📫 How to reach me Fleubelle.viatonou4@gmail.com
 
 <!---
